@@ -176,21 +176,23 @@ margin-bottom: 0;
     transition: all .3s;
     margin-top: 50px;
 }
-.team .team-social a.social-tw{
-    background: #00acee;
-}
+
+.blackiconcolor {color:rgb(255, 255, 255);}
+
+
 .team .team-social a.social-fb{
-    background: #3b5998;
+    background: #000000;
+    color: white;
 }
 .team .team-social a.social-li{
-    background: #0e76a8;
+    background: #000000;
+    color:white;
 }
 .team .team-social a.social-in{
-    background: #3f729b;
+    color:white;
+    background: #030608;
 }
-.team .team-social a.social-yt{
-    background: #c4302b;
-}
+
 .team .team-social a:last-child{
     margin-right: 0;
 }
